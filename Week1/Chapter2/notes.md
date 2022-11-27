@@ -47,5 +47,25 @@ CA
 ### The Ciphertext-Only Model
 * Try to break encryption algorithm
 * Hardest to do
+### The Known-Plaintext Model
+* Use m and c to predict E
+### The Chosen-Plaintext Model
+* Send m to Alice 
+### The Chosen-Ciphertext Model
+### The Distinguishing Attack Goal
+* Don't understand
+### Other Types of Attack
+* Information leakage or side-channel attacks.
 
+## Under the Hood
+>Generic attack techniques
+### Birthday Attacks
+* Use probability statistics
+### Meet-in-the-Middle Attacks
+* Collision attacks - cousins of birthday attacks - build a table of keys
 
+## Exercies
+## 2.3 
+30 ?
+## 2.7
+2^128
